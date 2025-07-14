@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fapplab-2-0%2Fapis-84149fea63be&psig=AOvVaw3xgPN9ZL1AGIg47S5Tk_pK&ust=1752623144214000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqGAoTCKC7mpHEvY4DFQAAAAAdAAAAABCmAQ" align="center" style="width:70rem; border-radius:10px;" /> 
+ <img src="1_yZ41P3YdMYMiyFPAPrzyGw.gif" align="center" style="width:70rem; border-radius:10px;" /> 
 </div>
 
 <h1 align="center">Hey there 👋, I'm Your Imran</h1>
