@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Hey there 👋, I'm Your Imran</h1>
 
-<!--
-**MdImran-Hossain/MdImran-Hossain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN-stack+developer+%F0%9F%92%BB;Open+source+enthusiast+%F0%9F%A4%96;Always+learning+new+tech+%F0%9F%93%9A&center=true&width=500&height=45">
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+```yaml
+name: Your Name
+role: MERN-Stack Developer
+location: Dhaka, Bangladesh
+technologies: [JavaScript, React, Node.js, MongoDB]
+tools: [VSCode, Git, GitHub]
+funFact: "I automate everything... even my coffee ☕"
