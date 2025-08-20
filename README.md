@@ -20,7 +20,7 @@
 ## 👨‍💻 About Me
 
 ```yaml
-name: Your Name
+name: Md Imran Hossain
 role: MERN-Stack Developer
 location: Dhaka, Bangladesh
 technologies: [JavaScript, React, Node.js, MongoDB]
