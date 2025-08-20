@@ -2,7 +2,7 @@
  <img src="1_yZ41P3YdMYMiyFPAPrzyGw.gif" align="center" style="width:70rem; border-radius:10px;" /> 
 </div>
 
-<h1 align="center">Hey there 👋, I'm Your Imran</h1>
+<h1 align="center">Assalamu Alaikum, I'm Your Imran</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN-stack+developer+%F0%9F%92%BB;Open+source+enthusiast+%F0%9F%A4%96;Always+learning+new+tech+%F0%9F%93%9A&center=true&width=500&height=45">
